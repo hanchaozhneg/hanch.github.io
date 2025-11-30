@@ -13,16 +13,19 @@ tags: jekyll github
 
 ### 今日英语单词
 ---
-slave｜
-pioneer｜
-barber｜
-herald｜
-infant｜
-prophet｜
-orphan｜
-spouse｜
-coward｜
-heir｜
+｜words|translate |unknown|
+| :---        |    :----:   |          ---: |
+slave|||
+pioneer|||
+barber|||
+herald|||
+infant|||
+prophet|||
+orphan|||
+spouse|||
+coward|||
+heir|||
+toil|||
 ---
 
 
