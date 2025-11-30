@@ -22,6 +22,7 @@ prophet｜
 orphan｜
 spouse｜
 coward｜
+heir｜
 ---
 
 
